@@ -237,6 +237,15 @@
 
 
 ## 📊 Datasets and Benchmarks
+- SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29139)]
+- Beyond pass@1: A Reliability Science Framework for Long-Horizon LLM Agents [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29231)]
+- ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29902)]
+- Empirical Comparison of Agent Communication Protocols for Task Orchestration [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.22823)]
+- CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29755)]
+- Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.28986)]
+- 6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29656)]
+- Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.25158)]
+- SkillTester: Benchmarking Utility and Security of Agent Skills [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.28815)]
 - Effective Harnesses for Long-Running Agents [2025-01-arXiv] [[📄 paper](https://arxiv.org/abs/2501.00002)]
 - Harness Engineering: Leveraging Codex in an Agent-First World [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.00001)]
 - HackRep: A Large-Scale Dataset of GitHub Hackathon Projects [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29672)]
