@@ -20,9 +20,7 @@
 - [👩‍💻 Repo-Level Issue Task Synthesis](#-repo-level-issue-task-synthesis)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
-## 💥 Repo-Level Issue Resolution
-- Wherefore Art Thou? Provenance-Guided Automatic Online Debugging [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.28906)]
-- Beyond Localization: Recoverable Headroom and Residual Frontier in Repository-Level RAG-APR [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29067)] 
+## 💥 Repo-Level Issue Resolution 
 
 - SWE-Exp: Experience-Driven Software Issue Resolution [2025-07-arXiv] [[📄 paper](http://arxiv.org/abs/2507.23361)] [[🔗 repo](https://github.com/YerbaPage/SWE-Exp)]
 
@@ -111,7 +109,6 @@
 - SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering [2024-NeurIPS] [[📄 paper](https://arxiv.org/abs/2405.15793)] [[🔗 repo](https://github.com/SWE-agent/SWE-agent)]
 
 ## 🤖 Repo-Level Code Completion
-- IntentCoding: Amplifying User Intent in Code Generation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.00066)]
 
 - Enhancing Project-Specific Code Completion by Inferring Internal API Information [2025-07-TSE] [[📄 paper](https://ieeexplore.ieee.org/abstract/document/11096713)] [[🔗 repo](https://github.com/ZJU-CTAG/InferCom)]
 
@@ -190,7 +187,6 @@
 - RustRepoTrans: Repository-level Code Translation Benchmark Targeting Rust [2024-11-arxiv] [[📄 paper](https://arxiv.org/abs/2411.13990)] [[🔗 repo](https://github.com/SYSUSELab/RustRepoTrans)]
 
 ## 🧪 Repo-Level Unit Test Generation
-- Dynamic Cogeneration of Bug Reproduction Test in Agentic Program Repair [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.19066)]
 - Execution-Feedback Driven Test Generation from SWE Issues [2025-08-arXiv] [[📄 paper](https://www.arxiv.org/abs/2508.06365)]
 
 - AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests [2025-07-arXiv] [[📄 paper](https://arxiv.org/abs/2507.17542)]
@@ -205,7 +201,6 @@
 
 
 ## 🔍 Repo-Level Code QA
-- Self-Supervised Query Reformulation for Code Search [2023-07-arXiv] [[📄 paper](https://arxiv.org/abs/2307.00267)]
 
 - SWE-QA: Can Language Models Answer Repository-level Code Questions? [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.14635)] [[🔗 repo](https://github.com/peng-weihan/SWE-QA-Bench)]
 
@@ -237,24 +232,7 @@
 - Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
 
 
-## 📊 Datasets and Benchmarks
-- PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29318)]
-- SkillRouter: Skill Routing for LLM Agents at Scale [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29262)]
-- SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29139)]
-- Beyond pass@1: A Reliability Science Framework for Long-Horizon LLM Agents [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29231)]
-- ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29902)]
-- Empirical Comparison of Agent Communication Protocols for Task Orchestration [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.22823)]
-- CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29755)]
-- Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.28986)]
-- 6GAgentGym: Tool Use, Data Synthesis, and Agentic Learning for Network Management [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29656)]
-- Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.25158)]
-- SkillTester: Benchmarking Utility and Security of Agent Skills [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.28815)]
-- Effective Harnesses for Long-Running Agents [2025-01-arXiv] [[📄 paper](https://arxiv.org/abs/2501.00002)]
-- Harness Engineering: Leveraging Codex in an Agent-First World [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.00001)]
-- HackRep: A Large-Scale Dataset of GitHub Hackathon Projects [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29672)]
-- Towards Supporting Quality Architecture Evaluation with LLM Tools [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.28914)]
-- VectorGym: A Multitask Benchmark for SVG Code Generation, Sketching, and Editing [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29852)]
-- CL4SE: A Context Learning Benchmark For Software Engineering Tasks [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.23047)] 
+## 📊 Datasets and Benchmarks 
 - **SWE-Bench++**: A Framework for the Scalable Generation of Software Engineering Benchmarks from Open-Source Repositories [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.17419)]
 
 - **Multi-Docker-Eval**:  A ‘Shovel of the Gold Rush’ Benchmark on Automatic Environment Building for Software Engineering? [2025-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2512.06915)]
