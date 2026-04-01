@@ -21,6 +21,7 @@
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
 ## 💥 Repo-Level Issue Resolution
+- Wherefore Art Thou? Provenance-Guided Automatic Online Debugging [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.28906)]
 - Beyond Localization: Recoverable Headroom and Residual Frontier in Repository-Level RAG-APR [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29067)] 
 
 - SWE-Exp: Experience-Driven Software Issue Resolution [2025-07-arXiv] [[📄 paper](http://arxiv.org/abs/2507.23361)] [[🔗 repo](https://github.com/YerbaPage/SWE-Exp)]
@@ -237,6 +238,8 @@
 
 
 ## 📊 Datasets and Benchmarks
+- PSPA-Bench: A Personalized Benchmark for Smartphone GUI Agent [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29318)]
+- SkillRouter: Skill Routing for LLM Agents at Scale [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29262)]
 - SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29139)]
 - Beyond pass@1: A Reliability Science Framework for Long-Horizon LLM Agents [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29231)]
 - ATP-Bench: Towards Agentic Tool Planning for MLLM Interleaved Generation [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29902)]
