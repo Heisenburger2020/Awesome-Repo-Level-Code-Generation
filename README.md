@@ -110,6 +110,7 @@
 - SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering [2024-NeurIPS] [[📄 paper](https://arxiv.org/abs/2405.15793)] [[🔗 repo](https://github.com/SWE-agent/SWE-agent)]
 
 ## 🤖 Repo-Level Code Completion
+- IntentCoding: Amplifying User Intent in Code Generation [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.00066)]
 
 - Enhancing Project-Specific Code Completion by Inferring Internal API Information [2025-07-TSE] [[📄 paper](https://ieeexplore.ieee.org/abstract/document/11096713)] [[🔗 repo](https://github.com/ZJU-CTAG/InferCom)]
 
@@ -203,6 +204,7 @@
 
 
 ## 🔍 Repo-Level Code QA
+- Self-Supervised Query Reformulation for Code Search [2023-07-arXiv] [[📄 paper](https://arxiv.org/abs/2307.00267)]
 
 - SWE-QA: Can Language Models Answer Repository-level Code Questions? [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.14635)] [[🔗 repo](https://github.com/peng-weihan/SWE-QA-Bench)]
 
@@ -235,6 +237,11 @@
 
 
 ## 📊 Datasets and Benchmarks
+- Effective Harnesses for Long-Running Agents [2025-01-arXiv] [[📄 paper](https://arxiv.org/abs/2501.00002)]
+- Harness Engineering: Leveraging Codex in an Agent-First World [2025-02-arXiv] [[📄 paper](https://arxiv.org/abs/2502.00001)]
+- HackRep: A Large-Scale Dataset of GitHub Hackathon Projects [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29672)]
+- Towards Supporting Quality Architecture Evaluation with LLM Tools [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.28914)]
+- VectorGym: A Multitask Benchmark for SVG Code Generation, Sketching, and Editing [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29852)]
 - CL4SE: A Context Learning Benchmark For Software Engineering Tasks [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.23047)] 
 - **SWE-Bench++**: A Framework for the Scalable Generation of Software Engineering Benchmarks from Open-Source Repositories [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.17419)]
 
