@@ -20,7 +20,25 @@
 - [👩‍💻 Repo-Level Issue Task Synthesis](#-repo-level-issue-task-synthesis)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
-## 💥 Repo-Level Issue Resolution 
+## 💥 Repo-Level Issue Resolution
+- SWE-RM: Execution-free Feedback For Software Engineering Agents [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.21919)]
+- BOAD: Discovering Hierarchical Software Engineering Agents via Bandit Optimization [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.23631)]
+- EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.05777)]
+- Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.11655)]
+- RGFL: Reasoning Guided Fault Localization for Automated Program Repair Using Large Language Models [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.18044)]
+- Monte Carlo Tree Search for Execution-Guided Program Repair with Large Language Models [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.00129)]
+- SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.22129)]
+- SWE-Master: Unleashing the Potential of Software Engineering Agents via Post-Training [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.03411)]
+- SWE-World: Building Software Engineering Agents in Docker-Free Environments [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.03419)]
+- SVRepair: Structured Visual Reasoning for Automated Program Repair [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.06090)]
+- The Limits of Long-Context Reasoning in Automated Bug Fixing [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.16069)]
+- Structurally Aligned Subtask-Level Memory for Software Engineering Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.21611)]
+- SWE-Protégé: Learning to Selectively Collaborate With an Expert Unlocks Small Language Models as Software Engineering Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.22124)]
+- Evaluating and Improving Automated Repository-Level Rust Issue Resolution with LLM-based Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.22764)]
+- RepoRepair: Leveraging Code Documentation for Repository-Level Automated Program Repair [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.01048)]
+- SWE-Adept: An LLM-Based Agentic Framework for Deep Codebase Analysis and Structured Issue Resolution [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.01327)]
+- Compressing Code Context for LLM-based Issue Resolution [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.28119)]
+- What's in a Benchmark? The Case of SWE-Bench in Automated Program Repair [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.04449)] 
 
 - SWE-Exp: Experience-Driven Software Issue Resolution [2025-07-arXiv] [[📄 paper](http://arxiv.org/abs/2507.23361)] [[🔗 repo](https://github.com/YerbaPage/SWE-Exp)]
 
@@ -187,6 +205,7 @@
 - RustRepoTrans: Repository-level Code Translation Benchmark Targeting Rust [2024-11-arxiv] [[📄 paper](https://arxiv.org/abs/2411.13990)] [[🔗 repo](https://github.com/SYSUSELab/RustRepoTrans)]
 
 ## 🧪 Repo-Level Unit Test Generation
+- Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.07900)]
 - Execution-Feedback Driven Test Generation from SWE Issues [2025-08-arXiv] [[📄 paper](https://www.arxiv.org/abs/2508.06365)]
 
 - AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests [2025-07-arXiv] [[📄 paper](https://arxiv.org/abs/2507.17542)]
@@ -201,6 +220,7 @@
 
 
 ## 🔍 Repo-Level Code QA
+- FastCode: Fast and Cost-Efficient Code Understanding and Reasoning [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.01012)]
 
 - SWE-QA: Can Language Models Answer Repository-level Code Questions? [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.14635)] [[🔗 repo](https://github.com/peng-weihan/SWE-QA-Bench)]
 
@@ -232,7 +252,9 @@
 - Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
 
 
-## 📊 Datasets and Benchmarks 
+## 📊 Datasets and Benchmarks
+- SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.18470)]
+- OmniCode: A Benchmark for Evaluating Software Engineering Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.02262)] 
 - **SWE-Bench++**: A Framework for the Scalable Generation of Software Engineering Benchmarks from Open-Source Repositories [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.17419)]
 
 - **Multi-Docker-Eval**:  A ‘Shovel of the Gold Rush’ Benchmark on Automatic Environment Building for Software Engineering? [2025-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2512.06915)]
