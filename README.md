@@ -20,7 +20,8 @@
 - [👩‍💻 Repo-Level Issue Task Synthesis](#-repo-level-issue-task-synthesis)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
 
-## 💥 Repo-Level Issue Resolution 
+## 💥 Repo-Level Issue Resolution
+- Beyond Localization: Recoverable Headroom and Residual Frontier in Repository-Level RAG-APR [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.29067)] 
 
 - SWE-Exp: Experience-Driven Software Issue Resolution [2025-07-arXiv] [[📄 paper](http://arxiv.org/abs/2507.23361)] [[🔗 repo](https://github.com/YerbaPage/SWE-Exp)]
 
@@ -187,6 +188,7 @@
 - RustRepoTrans: Repository-level Code Translation Benchmark Targeting Rust [2024-11-arxiv] [[📄 paper](https://arxiv.org/abs/2411.13990)] [[🔗 repo](https://github.com/SYSUSELab/RustRepoTrans)]
 
 ## 🧪 Repo-Level Unit Test Generation
+- Dynamic Cogeneration of Bug Reproduction Test in Agentic Program Repair [2026-01-arXiv] [[📄 paper](https://arxiv.org/abs/2601.19066)]
 - Execution-Feedback Driven Test Generation from SWE Issues [2025-08-arXiv] [[📄 paper](https://www.arxiv.org/abs/2508.06365)]
 
 - AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests [2025-07-arXiv] [[📄 paper](https://arxiv.org/abs/2507.17542)]
@@ -232,7 +234,8 @@
 - Training Software Engineering Agents and Verifiers with SWE-Gym [2024-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2412.21139)] [[🔗 repo](https://github.com/SWE-Gym/SWE-Gym)]
 
 
-## 📊 Datasets and Benchmarks 
+## 📊 Datasets and Benchmarks
+- CL4SE: A Context Learning Benchmark For Software Engineering Tasks [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.23047)] 
 - **SWE-Bench++**: A Framework for the Scalable Generation of Software Engineering Benchmarks from Open-Source Repositories [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.17419)]
 
 - **Multi-Docker-Eval**:  A ‘Shovel of the Gold Rush’ Benchmark on Automatic Environment Building for Software Engineering? [2025-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2512.06915)]
