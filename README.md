@@ -157,6 +157,7 @@
   
   
 
+- Executing as You Generate: Hiding Execution Latency in Code Completion [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.00491)]
 - CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code Generation [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.10046)]
 - RTLRepoCoder: Repository-Level RTL Code Completion through the Combination of Fine-Tuning and Retrieval Augmentation [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.08862)]
 - What to Retrieve for Effective Retrieval-Augmented Code Generation? An Empirical Study and Beyond [2025-03-arXiv] [[📄 paper](https://arxiv.org/abs/2503.20589)]
@@ -268,6 +269,7 @@
 
   
 
+- SWE-CI: Evaluating Agent Capabilities in Maintaining CI Pipelines [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2603.03823)]
 - **AutoCodeBench**: AutoCodeBench: Large Language Models are Automatic Code Benchmark Generators
  [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.09101)] [[🔗 repo](https://autocodebench.github.io/)]
 
