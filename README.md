@@ -65,6 +65,7 @@
 
 
 
+- From SWE-ZERO to SWE-HERO: Two-Stage SFT for SWE-Bench [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.01230)]
 - RepoRepair: Leveraging Code Documentation for Repository-Level Automated Program Repair [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.01048)]
 - SWE-Adept: An LLM-Based Agentic Framework for Deep Codebase Analysis and Structured Issue Resolution [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.01327)]
 - Compressing Code Context for LLM-based Issue Resolution [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.28119)]
@@ -269,6 +270,7 @@
 
   
 
+- Are Benchmark Tests Strong Enough? STING Framework for Enhanced SWE-bench Testing [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.01150)]
 - SWE-CI: Evaluating Agent Capabilities in Maintaining CI Pipelines [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2603.03823)]
 - **AutoCodeBench**: AutoCodeBench: Large Language Models are Automatic Code Benchmark Generators
  [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.09101)] [[🔗 repo](https://autocodebench.github.io/)]
