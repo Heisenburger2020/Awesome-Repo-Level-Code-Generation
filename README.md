@@ -65,6 +65,16 @@
 
 
 
+- **ABTest: Behavior-Driven Testing for AI Coding Agents** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
+  - First behavior-driven fuzzing framework for AI coding agents, 40.8% detection precision.
+- **Inside the Scaffold: A Source-Code Taxonomy of Coding Agent Architectures** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
+  - Taxonomy of 13 open-source coding agents across 12 dimensions.
+- **Beyond Fixed Tests: Repository-Level Issue Resolution as Coevolution of Code and Behavioral Constraints** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
+  - Agent-CoEvo: Coevolution framework for code and tests.
+- **DebugHarness: Emulating Human Dynamic Debugging for Autonomous Program Repair** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
+  - Human-like interactive debugging for program repair, 90% fix rate on SEC-bench.
+- **Yet Even Less Is Even Better For Agentic, Reasoning, and Coding LLMs** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
+  - STITCH: Higher quality with fewer training trajectories.
 - From SWE-ZERO to SWE-HERO: Two-Stage SFT for SWE-Bench [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.01230)]
 - RepoRepair: Leveraging Code Documentation for Repository-Level Automated Program Repair [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.01048)]
 - SWE-Adept: An LLM-Based Agentic Framework for Deep Codebase Analysis and Structured Issue Resolution [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.01327)]
@@ -139,6 +149,10 @@
 
 
 
+- **Persistent Cross-Attempt State Optimization for Repository-Level Code Generation** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
+  - LiveCoder: 22.94% improvement, 53.63% cost reduction.
+- **Toward Executable Repository-Level Code Generation via Environment Alignment** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
+  - EnvGraph: Environment alignment for executable code generation.
   
 
   
@@ -248,6 +262,8 @@
 
 
 
+- **SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
+  - Automated skill library construction from heterogeneous scientific resources.
 - SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories [2025-09-arXiv] [[📄 paper](https://arxiv.org/pdf/2509.08724)]
 - SWE-bench Goes Live! [2025-05-arXiv] [[📄 paper](https://www.arxiv.org/abs/2505.23419)] [[🔗 repo](https://github.com/microsoft/SWE-bench-Live)]
 - R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.07164)] [[🔗 repo](https://r2e-gym.github.io/)]
@@ -268,6 +284,8 @@
 
 
 
+- **SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
+  - Long-horizon software evolution benchmark.
   
 
 - Are Benchmark Tests Strong Enough? STING Framework for Enhanced SWE-bench Testing [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.01150)]
