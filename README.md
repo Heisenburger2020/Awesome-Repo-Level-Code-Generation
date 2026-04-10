@@ -65,6 +65,8 @@
 
 
 
+- GALA: Multimodal Graph Alignment for Bug Localization in Automated Program Repair [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.08089)]
+- Triage: Routing Software Engineering Tasks to Cost-Effective LLM Tiers via Code Quality Signals [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.07494)]
 - **ABTest: Behavior-Driven Testing for AI Coding Agents** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
   - First behavior-driven fuzzing framework for AI coding agents, 40.8% detection precision.
 - **Inside the Scaffold: A Source-Code Taxonomy of Coding Agent Architectures** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
