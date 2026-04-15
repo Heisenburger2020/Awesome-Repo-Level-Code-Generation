@@ -64,7 +64,7 @@
 
 
 
-
+- SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context [2026-ACL-Findings] [[📄 paper](https://arxiv.org/abs/2604.11716)]
 - GALA: Multimodal Graph Alignment for Bug Localization in Automated Program Repair [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.08089)]
 - Triage: Routing Software Engineering Tasks to Cost-Effective LLM Tiers via Code Quality Signals [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.07494)]
 - **ABTest: Behavior-Driven Testing for AI Coding Agents** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
