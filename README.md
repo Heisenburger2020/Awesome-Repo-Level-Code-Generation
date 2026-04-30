@@ -19,64 +19,18 @@
 - [🔍 Repo-Level Code QA](#-repo-level-code-qa)
 - [👩‍💻 Repo-Level Issue Task Synthesis](#-repo-level-issue-task-synthesis)
 - [📊 Datasets and Benchmarks](#-datasets-and-benchmarks)
+- [Star History](#star-history)
 
 ## 💥 Repo-Level Issue Resolution
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context [2026-ACL-Findings] [[📄 paper](https://arxiv.org/abs/2604.11716)]
 - GALA: Multimodal Graph Alignment for Bug Localization in Automated Program Repair [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.08089)]
 - Triage: Routing Software Engineering Tasks to Cost-Effective LLM Tiers via Code Quality Signals [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.07494)]
-- **ABTest: Behavior-Driven Testing for AI Coding Agents** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
-  - First behavior-driven fuzzing framework for AI coding agents, 40.8% detection precision.
-- **Inside the Scaffold: A Source-Code Taxonomy of Coding Agent Architectures** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
-  - Taxonomy of 13 open-source coding agents across 12 dimensions.
-- **Beyond Fixed Tests: Repository-Level Issue Resolution as Coevolution of Code and Behavioral Constraints** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
-  - Agent-CoEvo: Coevolution framework for code and tests.
-- **DebugHarness: Emulating Human Dynamic Debugging for Autonomous Program Repair** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
-  - Human-like interactive debugging for program repair, 90% fix rate on SEC-bench.
-- **Yet Even Less Is Even Better For Agentic, Reasoning, and Coding LLMs** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
-  - STITCH: Higher quality with fewer training trajectories.
+- ABTest: Behavior-Driven Testing for AI Coding Agents [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.03362)]
+- Inside the Scaffold: A Source-Code Taxonomy of Coding Agent Architectures [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.03515)]
+- Beyond Fixed Tests: Repository-Level Issue Resolution as Coevolution of Code and Behavioral Constraints [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.04580)]
+- DebugHarness: Emulating Human Dynamic Debugging for Autonomous Program Repair [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.03610)]
+- Yet Even Less Is Even Better For Agentic, Reasoning, and Coding LLMs [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.00824)]
 - From SWE-ZERO to SWE-HERO: Two-Stage SFT for SWE-Bench [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.01230)]
 - RepoRepair: Leveraging Code Documentation for Repository-Level Automated Program Repair [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.01048)]
 - SWE-Adept: An LLM-Based Agentic Framework for Deep Codebase Analysis and Structured Issue Resolution [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.01327)]
@@ -97,7 +51,7 @@
 - SWE-RM: Execution-free Feedback For Software Engineering Agents [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.21919)]
 - BOAD: Discovering Hierarchical Software Engineering Agents via Bandit Optimization [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.23631)]
 - LIVE-SWE-AGENT: Can Software Engineering Agents Self-Evolve on the Fly? [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.13646)]
-- Understanding Code Agent Behaviour: An Empirical Study of Success and Failure Trajectories  [2025-10-arXiv] [[📄 paper](https://arxiv.org/abs/2511.00197)]
+- Understanding Code Agent Behaviour: An Empirical Study of Success and Failure Trajectories [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.00197)]
 - BugPilot: Complex Bug Generation for Efficient Learning of SWE Skills  [2025-10-arXiv] [[📄 paper](https://arxiv.org/pdf/2510.19898)]
 - Where LLM Agents Fail and How They can Learn From Failures  [2025-09-arXiv] [[📄 paper](https://www.arxiv.org/abs/2509.25370)] [[🔗 repo](https://github.com/ulab-uiuc/AgentDebug)]
 - SWE-Effi: Re-Evaluating Software AI Agent System Effectiveness Under Resource Constraints  [2025-09-arXiv] [[📄 paper](https://arxiv.org/abs/2509.09853)]
@@ -151,10 +105,8 @@
 
 
 
-- **Persistent Cross-Attempt State Optimization for Repository-Level Code Generation** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
-  - LiveCoder: 22.94% improvement, 53.63% cost reduction.
-- **Toward Executable Repository-Level Code Generation via Environment Alignment** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
-  - EnvGraph: Environment alignment for executable code generation.
+- Persistent Cross-Attempt State Optimization for Repository-Level Code Generation [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.03632)]
+- Toward Executable Repository-Level Code Generation via Environment Alignment [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.03622)]
   
 
   
@@ -216,7 +168,7 @@
 
 - EVOC2RUST: A Skeleton-guided Framework for Project-Level C-to-Rust Translation [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.04295)]
 - A Systematic Literature Review on Neural Code Translation [2025-05-arXiv] [[📄 paper](https://arxiv.org/abs/2505.07425)]
-- Enhancing llm-based code translation in repository context via triple knowledge-augmented [2025-03-arXiv] [[📄 paper]([https://www.arxiv.org/pdf/2501.14257](https://arxiv.org/pdf/2503.18305))]
+- Enhancing llm-based code translation in repository context via triple knowledge-augmented [2025-03-arXiv] [[📄 paper](https://arxiv.org/pdf/2503.18305)]
 - C2SaferRust: Transforming C Projects into Safer Rust with NeuroSymbolic Techniques [2025-01-arXiv] [[📄 paper](https://www.arxiv.org/pdf/2501.14257)] [[🔗 repo](https://github.com/vikramnitin9/c2saferrust)]
 - Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code [2024-04-ICSE] [[📄 paper](https://doi.org/10.1145/3597503.3639226)] [[🔗 repo](https://github.com/Intelligent-CAT-Lab/PLTranslationEmpirical)]
 - Scalable, Validated Code Translation of Entire Projects using Large Language Models [2025-06-PLDI] [[📄 paper](https://dl.acm.org/doi/abs/10.1145/3729315)] 
@@ -264,8 +216,7 @@
 
 
 
-- **SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
-  - Automated skill library construction from heterogeneous scientific resources.
+- SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.03964)]
 - SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories [2025-09-arXiv] [[📄 paper](https://arxiv.org/pdf/2509.08724)]
 - SWE-bench Goes Live! [2025-05-arXiv] [[📄 paper](https://www.arxiv.org/abs/2505.23419)] [[🔗 repo](https://github.com/microsoft/SWE-bench-Live)]
 - R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.07164)] [[🔗 repo](https://r2e-gym.github.io/)]
@@ -286,14 +237,12 @@
 
 
 
-- **SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios** [2025-04-arXiv] [[📄 paper](https://arxiv.org/abs/2504.xxxxx)]
-  - Long-horizon software evolution benchmark.
+- SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.18470)]
   
 
 - Are Benchmark Tests Strong Enough? STING Framework for Enhanced SWE-bench Testing [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.01150)]
 - SWE-CI: Evaluating Agent Capabilities in Maintaining CI Pipelines [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2603.03823)]
-- **AutoCodeBench**: AutoCodeBench: Large Language Models are Automatic Code Benchmark Generators
- [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.09101)] [[🔗 repo](https://autocodebench.github.io/)]
+- **AutoCodeBench**: Large Language Models are Automatic Code Benchmark Generators [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.09101)] [[🔗 repo](https://autocodebench.github.io/)]
 
 
 
@@ -336,8 +285,7 @@
 
 
 
-- **SWT-Bench**: Testing and Validating Real-World Bug-Fixes with Code Agents
- [2024-06-arxiv] [[📄 paper](https://arxiv.org/abs/2406.12952)] [[🕸️ website](https://swtbench.com/?results=verified)]
+- **SWT-Bench**: Testing and Validating Real-World Bug-Fixes with Code Agents [2024-06-arXiv] [[📄 paper](https://arxiv.org/abs/2406.12952)] [[🕸️ website](https://swtbench.com/?results=verified)]
 
 
 
@@ -353,7 +301,6 @@
 
 
 - OmniCode: A Benchmark for Evaluating Software Engineering Agents [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.02262)] 
-- SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.18470)]
 - **SWE-Bench++**: A Framework for the Scalable Generation of Software Engineering Benchmarks from Open-Source Repositories [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.17419)]
 - **Multi-Docker-Eval**:  A ‘Shovel of the Gold Rush’ Benchmark on Automatic Environment Building for Software Engineering? [2025-12-arXiv] [[📄 paper](https://arxiv.org/pdf/2512.06915)]
 - **CodeClash**: CodeClash: Benchmarking Goal-Oriented Software Engineering [2025-11-arXiv] [[📄 paper](https://arxiv.org/abs/2511.00839)] [[🔗 repo](https://github.com/CodeClash-ai/CodeClash)]
