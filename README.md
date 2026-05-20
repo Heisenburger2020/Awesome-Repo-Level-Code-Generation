@@ -33,6 +33,7 @@
 - Yet Even Less Is Even Better For Agentic, Reasoning, and Coding LLMs [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.00824)]
 - From SWE-ZERO to SWE-HERO: Two-Stage SFT for SWE-Bench [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.01230)]
 - RepoRepair: Leveraging Code Documentation for Repository-Level Automated Program Repair [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.01048)]
+- Immersion in the GitHub Universe: Scaling Coding Agents to Mastery  [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2602.09892)] [[🔗 repo](https://github.com/AweAI-Team/ScaleSWE)]
 - SWE-Adept: An LLM-Based Agentic Framework for Deep Codebase Analysis and Structured Issue Resolution [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.01327)]
 - Compressing Code Context for LLM-based Issue Resolution [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.28119)]
 - Monte Carlo Tree Search for Execution-Guided Program Repair with Large Language Models [2026-02-arXiv] [[📄 paper](https://arxiv.org/abs/2602.00129)]
@@ -236,12 +237,15 @@
 
 
 
-
 - SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios [2025-12-arXiv] [[📄 paper](https://arxiv.org/abs/2512.18470)]
   
 
 - Are Benchmark Tests Strong Enough? STING Framework for Enhanced SWE-bench Testing [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2604.01150)]
 - SWE-CI: Evaluating Agent Capabilities in Maintaining CI Pipelines [2026-04-arXiv] [[📄 paper](https://arxiv.org/abs/2603.03823)]
+
+- BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing? [2026-03-arXiv] [[📄 paper](https://arxiv.org/abs/2603.03194)] [[🔗 repo](https://github.com/AweAI-Team/BeyondSWE)]
+  
+
 - **AutoCodeBench**: Large Language Models are Automatic Code Benchmark Generators [2025-08-arXiv] [[📄 paper](https://arxiv.org/abs/2508.09101)] [[🔗 repo](https://autocodebench.github.io/)]
 
 
